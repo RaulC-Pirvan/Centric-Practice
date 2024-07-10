@@ -1,0 +1,31 @@
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\WebApiContracts\bin\Debug\net8.0\WebApiContracts.deps.json
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\WebApiContracts\bin\Debug\net8.0\WebApiContracts.dll
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\WebApiContracts\bin\Debug\net8.0\WebApiContracts.pdb
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\WebApiContracts\bin\Debug\net8.0\Domain.dll
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\WebApiContracts\bin\Debug\net8.0\Domain.pdb
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\WebApiContracts\obj\Debug\net8.0\WebApiContracts.csproj.AssemblyReference.cache
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\WebApiContracts\obj\Debug\net8.0\WebApiContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\WebApiContracts\obj\Debug\net8.0\WebApiContracts.AssemblyInfoInputs.cache
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\WebApiContracts\obj\Debug\net8.0\WebApiContracts.AssemblyInfo.cs
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\WebApiContracts\obj\Debug\net8.0\WebApiContracts.csproj.CoreCompileInputs.cache
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\WebApiContracts\obj\Debug\net8.0\WebApiCo.57717283.Up2Date
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\WebApiContracts\obj\Debug\net8.0\WebApiContracts.dll
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\WebApiContracts\obj\Debug\net8.0\refint\WebApiContracts.dll
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\WebApiContracts\obj\Debug\net8.0\WebApiContracts.pdb
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\WebApiContracts\obj\Debug\net8.0\ref\WebApiContracts.dll
+D:\Centric\Project\SummerPracticeAC\WebApiContracts\bin\Debug\net8.0\WebApiContracts.deps.json
+D:\Centric\Project\SummerPracticeAC\WebApiContracts\bin\Debug\net8.0\WebApiContracts.dll
+D:\Centric\Project\SummerPracticeAC\WebApiContracts\bin\Debug\net8.0\WebApiContracts.pdb
+D:\Centric\Project\SummerPracticeAC\WebApiContracts\bin\Debug\net8.0\Domain.dll
+D:\Centric\Project\SummerPracticeAC\WebApiContracts\bin\Debug\net8.0\Domain.pdb
+D:\Centric\Project\SummerPracticeAC\WebApiContracts\obj\Debug\net8.0\WebApiContracts.csproj.AssemblyReference.cache
+D:\Centric\Project\SummerPracticeAC\WebApiContracts\obj\Debug\net8.0\WebApiContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Centric\Project\SummerPracticeAC\WebApiContracts\obj\Debug\net8.0\WebApiContracts.AssemblyInfoInputs.cache
+D:\Centric\Project\SummerPracticeAC\WebApiContracts\obj\Debug\net8.0\WebApiContracts.AssemblyInfo.cs
+D:\Centric\Project\SummerPracticeAC\WebApiContracts\obj\Debug\net8.0\WebApiContracts.csproj.CoreCompileInputs.cache
+D:\Centric\Project\SummerPracticeAC\WebApiContracts\obj\Debug\net8.0\WebApiContracts.sourcelink.json
+D:\Centric\Project\SummerPracticeAC\WebApiContracts\obj\Debug\net8.0\WebApiCo.57717283.Up2Date
+D:\Centric\Project\SummerPracticeAC\WebApiContracts\obj\Debug\net8.0\WebApiContracts.dll
+D:\Centric\Project\SummerPracticeAC\WebApiContracts\obj\Debug\net8.0\refint\WebApiContracts.dll
+D:\Centric\Project\SummerPracticeAC\WebApiContracts\obj\Debug\net8.0\WebApiContracts.pdb
+D:\Centric\Project\SummerPracticeAC\WebApiContracts\obj\Debug\net8.0\ref\WebApiContracts.dll

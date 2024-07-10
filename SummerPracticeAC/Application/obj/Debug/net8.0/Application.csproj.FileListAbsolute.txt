@@ -1,0 +1,31 @@
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\Application\bin\Debug\net8.0\Application.deps.json
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\Application\bin\Debug\net8.0\Application.dll
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\Application\bin\Debug\net8.0\Application.pdb
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\Application\bin\Debug\net8.0\Domain.dll
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\Application\bin\Debug\net8.0\Domain.pdb
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\Application\obj\Debug\net8.0\Application.dll
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\Application\obj\Debug\net8.0\Application.pdb
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\Application\obj\Debug\net8.0\ref\Application.dll
+D:\Centric\Project\SummerPracticeAC\Application\bin\Debug\net8.0\Application.deps.json
+D:\Centric\Project\SummerPracticeAC\Application\bin\Debug\net8.0\Application.dll
+D:\Centric\Project\SummerPracticeAC\Application\bin\Debug\net8.0\Application.pdb
+D:\Centric\Project\SummerPracticeAC\Application\bin\Debug\net8.0\Domain.dll
+D:\Centric\Project\SummerPracticeAC\Application\bin\Debug\net8.0\Domain.pdb
+D:\Centric\Project\SummerPracticeAC\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\Centric\Project\SummerPracticeAC\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Centric\Project\SummerPracticeAC\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\Centric\Project\SummerPracticeAC\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\Centric\Project\SummerPracticeAC\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\Centric\Project\SummerPracticeAC\Application\obj\Debug\net8.0\Application.sourcelink.json
+D:\Centric\Project\SummerPracticeAC\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\Centric\Project\SummerPracticeAC\Application\obj\Debug\net8.0\Application.dll
+D:\Centric\Project\SummerPracticeAC\Application\obj\Debug\net8.0\refint\Application.dll
+D:\Centric\Project\SummerPracticeAC\Application\obj\Debug\net8.0\Application.pdb
+D:\Centric\Project\SummerPracticeAC\Application\obj\Debug\net8.0\ref\Application.dll

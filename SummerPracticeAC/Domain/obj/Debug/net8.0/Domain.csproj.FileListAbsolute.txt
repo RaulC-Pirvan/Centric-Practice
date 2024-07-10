@@ -1,0 +1,23 @@
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\Domain\bin\Debug\net8.0\Domain.dll
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\Domain\obj\Debug\net8.0\Domain.dll
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Workspace\Summer Practice\SummerPracticeAC\SummerPracticeAC\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Centric\Project\SummerPracticeAC\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Centric\Project\SummerPracticeAC\Domain\bin\Debug\net8.0\Domain.dll
+D:\Centric\Project\SummerPracticeAC\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Centric\Project\SummerPracticeAC\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Centric\Project\SummerPracticeAC\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Centric\Project\SummerPracticeAC\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Centric\Project\SummerPracticeAC\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Centric\Project\SummerPracticeAC\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\Centric\Project\SummerPracticeAC\Domain\obj\Debug\net8.0\Domain.dll
+D:\Centric\Project\SummerPracticeAC\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Centric\Project\SummerPracticeAC\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Centric\Project\SummerPracticeAC\Domain\obj\Debug\net8.0\ref\Domain.dll
